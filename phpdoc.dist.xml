@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <phpdoc>
-	<title>DSP SDK For PHP</title>
+	<title>DSP Hive Client Plugin</title>
 	<parser>
-		<default-package-name>DreamFactory\Platform</default-package-name>
+		<default-package-name>DreamFactory\Plugin\HiveClient</default-package-name>
 		<target>build/doc</target>
 		<markers>
 			<item>TODO</item>
